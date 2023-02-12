@@ -1,0 +1,85 @@
+<?xml version="1.0"?>
+<!-- The 10 random products -->
+<products>
+  <product>
+    <name>Pumpkin Spice Coffee</name>
+    <category>Coffee</category>
+    <description>Enjoy the rich, warm flavors of fall in every sip with our seasonal Pumpkin Spice Coffee. Made with real pumpkin puree and a blend of spices, it's the perfect treat for chilly autumn mornings.</description>
+    <image-link>https://media-cdn.tripadvisor.com/media/photo-s/1a/6f/61/e8/photo0jpg.jpg</image-link>
+    <inventory>99</inventory>
+    <price>3.45</price>
+  </product>
+  <product>
+    <name>Coffee Croissant Combo</name>
+    <category>Combo</category>
+    <description>Start your day off right with our Coffee Croissant Combo. Our freshly brewed coffee paired with a flaky, buttery croissant is the ultimate breakfast experience.</description>
+    <image-link>https://media-cdn.tripadvisor.com/media/photo-s/0b/9d/a7/13/authentic-italian-coffee.jpg</image-link>
+    <inventory>100</inventory>
+    <price>6.25</price>
+  </product>
+  <product>
+    <name>Lemon Ginger Tea</name>
+    <category>Tea</category>
+    <description>Refresh and revitalize with our Lemon Ginger Tea. This tea is made with real lemon pieces and spicy ginger to give you a zesty and invigorating experience.</description>
+    <image-link>https://cdn.shopify.com/s/files/1/0534/3523/6516/products/img_proxy_c43eb37f-7724-48f0-94b3-79bfc928e026_1280x.jpg?v=1617221164</image-link>
+    <inventory>75</inventory>
+    <price>3.25</price>
+  </product>
+  <product>
+    <name>Lemon Honey Tea</name>
+    <category>Tea</category>
+    <description> Treat yourself to a sweet and soothing cup of Lemon Honey Tea. Made with real lemon pieces and honey, it's the perfect way to unwind after a long day.</description>
+    <image-link>https://cdn.shopify.com/s/files/1/0560/1699/4381/articles/BC_2B-_2BAssam_2B_28cup_29_2B_281055_29.jpg?v=1664455870&width=533</image-link>
+    <inventory>75</inventory>
+    <price>3.25</price>
+  </product>
+  <product>
+    <name>Croissant </name>
+    <category>Bread</category>
+    <description>Indulge in the classic French treat, the Croissant. Made with flaky, buttery layers, it's the perfect snack to enjoy with a cup of coffee.</description>
+    <image-link>https://cdn.britannica.com/65/235965-050-A5D740E2/Croissants-jar-of-jam.jpg</image-link>
+    <inventory>50</inventory>
+    <price>2.75</price>
+  </product>
+  <product>
+    <name>Triple Chocolate Muffin</name>
+    <category>Dessert</category>
+    <description>Satisfy your sweet tooth with our Triple Chocolate Muffin. Made with rich, dark chocolate, it's a chocolate lover's dream come true.</description>
+    <image-link>https://www.creedfoodservice.co.uk/media/catalog/product/cache/d781aa45b0623b3b1e7a18c482a05dd6/9/6/96ada4237312af95113c038ab656ba93.jpg</image-link>
+    <inventory>50</inventory>
+    <price>4.75</price>
+  </product>
+  <product>
+    <name>French Bread Loaf</name>
+    <category>Bread</category>
+    <description>Enjoy the taste of freshly baked French Bread right at home. Perfect for toasting or making sandwiches, it's a staple in every kitchen.</description>
+    <image-link>https://www.viedefrancefoodservice.com/wp-content/uploads/2017/10/Products-Thumb.jpg</image-link>
+    <inventory>95</inventory>
+    <price>1.50</price>
+  </product>
+  <product>
+    <name>Pastries </name>
+    <category>Dessert</category>
+    <description> Indulge in a variety of sweet treats with our Pastries. From fruit tarts to cream puffs, there's something for everyone.</description>
+    <image-link>https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlr5A8v0akikThD1CdYydauaLBzLz-IeJ7T8Pum2XSSDDmNS8Q0LfTEByY8COwxXjqzb4&usqp=CAU</image-link>
+    <inventory>97</inventory>
+    <price>1.99</price>
+  </product>
+  <product>
+    <name>Cinnamon Caramel Latte</name>
+    <category>Coffee</category>
+    <description>Satisfy your sweet tooth with our Cinnamon Caramel Latte. Made with rich caramel and a touch of cinnamon, it's the perfect indulgence for any time of day.</description>
+    <image-link>https://cdn3.tmbi.com/toh/GoogleImagesPostCard/exps42991_SD1440074D42B_WEB.jpg</image-link>
+    <inventory>50</inventory>
+    <price>3.99</price>
+  </product>
+  <product>
+    <name>Organic Black Coffee</name>
+    <category>Coffee</category>
+    <description>Savor the bold and rich flavor of our Organic Black Coffee. Made with 100% Arabica beans, it's the perfect choice for coffee purists.</description>
+    <image-link>https://www.tastingtable.com/img/gallery/coffee-brands-ranked-from-worst-to-best/l-intro-1645231221.jpg</image-link>
+    <inventory>100</inventory>
+    <price>2.4</price>
+  </product>
+  <!-- Add more products here -->
+</products>
